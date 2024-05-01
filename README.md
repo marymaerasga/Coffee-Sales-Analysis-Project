@@ -33,9 +33,7 @@ Since there are three tables, the first thing I did was merge them. Data needed 
 
 - Clean Data:
 After merging the tables , I clean the data to be ready for analysis. Such as
-1. Data Formatting: Since the Coffee type, and Roast Type data is in abbreviations. What I did I rename it using IF function for easily to read the data
-Example : IF(A2 = "Lib", "Liberica:, If(A2 = "Ara", "Arabica", if(A2 = "Rob", "Robusta", if(A2 = "Exc", "Excelsa", " ")))).
-I also format the Size Field, I custom the number and add "kg" so it's more readable.
+1. Data Formatting: Since the Coffee Type and Roast Type data were in abbreviations, I renamed them using the IF function to make the data easier to read. For example, IF(A2 = 'Lib', 'Liberica', IF(A2 = 'Ara', 'Arabica', IF(A2 = 'Rob', 'Robusta', IF(A2 = 'Exc', 'Excelsa', ' ')))). I also formatted the Size field by customizing the number format to include 'kg', making it more readable.
 2. I Extracted the years and months from the Order Date using the formula TEXT() and YEAR(), and created a new column for that.
 3. Sales calculated using (Unit Price*Quantit)
 4. Converted the data to a table
