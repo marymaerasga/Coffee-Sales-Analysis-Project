@@ -47,7 +47,7 @@ After merging the tables , I clean the data to be ready for analysis. Such as
 
 
 
-
+## Dashboard
 
 ![image](https://github.com/marymaerasga/Coffee-Sales-Analysis-Project/assets/86357387/3fbc6f69-406e-4218-8b28-091d58d605ce)
 
