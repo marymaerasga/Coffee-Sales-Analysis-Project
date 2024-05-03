@@ -42,17 +42,20 @@ After merging the tables , I clean the data to be ready for analysis. Such as
 ### Data Analysis:
 
 Sales Over Time 
+
 ![image](https://github.com/marymaerasga/Coffee-Sales-Analysis-Project/assets/86357387/0d9102a7-8283-4070-aac0-4a4bc64180df)
 
 This table shows total sales for all coffee types increased each year from 2019 to 2021. Arabica became the top-selling coffee in 2021, overtaking Excelsa, which had been leading in 2019 and 2020. In 2022, there was a notable drop in total sales across all coffee types. Arabica still led, but its total sales dropped significantly compared to the previous year. I think it because the sales  month in the year 2022 are Jan-Aug , ask  for the Sep-Dec month sales and do the analysis further.
 
 
 Top 5 Customers
+
 ![image](https://github.com/marymaerasga/Coffee-Sales-Analysis-Project/assets/86357387/8a94327f-a4b3-4a16-a804-5c9e43bd1996)
 
 This table shows the top 5 customers thus Allis Wilmore has the highest sales, with a total of $317. The sales figures are relatively close among the other customers. Brenn Dundredge is the second-highest with $307, followed by Terri Farra with $289. The sales difference between the top and bottom customers is not vast. Nealson Cuttler and Don Flintiff have $282 and $278, respectively.
 
 Sales by Country
+
 ![image](https://github.com/marymaerasga/Coffee-Sales-Analysis-Project/assets/86357387/0bb79dec-f10e-4cc5-8f65-a9a73d4797b9)
 
 The United States leads by a wide margin, with $35.64k in total sales.Ireland has the second-highest sales at $6.70k, while the United Kingdom follows with $2.80k. The gap between the United States and the other two countries is substantial, indicating a significantly larger market or customer base.
